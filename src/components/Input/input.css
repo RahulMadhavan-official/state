@@ -1,0 +1,8 @@
+.input-component{
+    font-size: 20px;
+    padding: 6.5px 7px;
+    
+    border: 1px solid rgb(2, 2, 2);
+    min-width: 350px;
+    border-radius: 4px;
+}
